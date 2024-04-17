@@ -1,0 +1,21 @@
+div {
+    position: absolute;
+    width: 350px;
+    height: 700px;
+    background-color: #F95A2C;
+    margin: 100px;
+    overflow: auto;
+    color: white;
+    text-align: center;
+    
+}
+
+.boton{
+    color: white;
+    background-color: black;
+    width: 250px;
+    height: 45px;
+    font-size: 20px;
+    font-family: Arial;
+    border-radius: 12px;
+}
